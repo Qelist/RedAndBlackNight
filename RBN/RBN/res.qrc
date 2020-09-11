@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/RBNlogo.jpg</file>
+    </qresource>
+</RCC>
